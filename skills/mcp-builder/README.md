@@ -4,6 +4,12 @@ description: Guide for creating high-quality MCP (Model Context Protocol) server
 license: Complete terms in LICENSE.txt
 ---
 
+> **Third-party modification notice:** This document is derived from
+> [`anthropics/skills/skills/mcp-builder/SKILL.md`](https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md),
+> licensed under Apache-2.0. In this repository, the file was renamed to
+> `README.md`; no other material changes were identified during comparison.
+> See [`THIRD_PARTY_NOTICES.md`](../../THIRD_PARTY_NOTICES.md).
+
 # MCP Server Development Guide
 
 ## Overview
@@ -234,3 +240,4 @@ Load these resources as needed during development:
   - XML format specifications
   - Example questions and answers
   - Running an evaluation with the provided scripts
+
