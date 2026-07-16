@@ -1,10 +1,15 @@
-> **📢 演示仓库说明**
-> 
-> 这是 [feishu-cursor-robot](https://github.com/white-loub/feishu-cursor-robot) 的 Agent 灵魂和技能的演示仓库！
-> 
-> 主项目是一个飞书机器人，通过飞书消息与 Cursor Agent 进行交互。本仓库存放 Agent 的核心"灵魂"记忆和技能文档，作为 Agent 的知识库和能力扩展中心。
+> [!IMPORTANT]
+> **项目状态：已停止维护 · 历史示例**
 >
-> 技能内容由 Cursor Agent 构建，可能融合了网络上的公开资料与最佳实践，具体来源难以逐一追溯。如有雷同或侵权，请提 Issue 告知，我们会及时处理。
+> 本仓库是 [feishu-cursor-robot](https://github.com/white-loub/feishu-cursor-robot) 曾经使用的 Agent 记忆与技能结构快照，仅用于展示当时的设计思路和目录组织。
+>
+> 这是一个历史示例仓库，不是可直接复制使用的 GitHub Template；仓库的 Template 功能保持关闭。
+>
+> **许可说明：** 本仓库没有提供覆盖全部内容的统一许可证。对于经确认属于 `white-loub` 的原创内容，未另行授予复制、修改、分发或商业使用许可，保留所有权利。仓库中已识别的第三方内容仍分别适用其原许可证，详见 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) 和对应的许可证文件。第三方许可证已经授予的权利不受上述原创内容声明限制。
+>
+> 部分技能曾由 Cursor Agent 基于公开内容整理，来源清单可能仍有遗漏。如发现缺少来源、署名或许可证，请按照 [第三方内容声明](./THIRD_PARTY_NOTICES.md#纠错与补充) 中的方式反馈。
+>
+> 以下正文保留了项目当时的原始说明，仅作为历史记录，不代表当前维护状态或使用承诺。
 
 ---
 
@@ -100,4 +105,5 @@
 - **深度研究**：“帮我深度调研 DeepSeek-V4 的技术架构，生成一份带引文验证的报告。”
 - **每日简报**：“聚合今天关于 Agent 领域的最炸裂新闻。”
 - **信息采集**：“收集 GitHub 上所有关于 'Mamba' 架构的 SOTA 实现并对比。”
+
 
